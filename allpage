@@ -1,0 +1,50 @@
+def getdfpays(url):
+    rep = requests.get(url)
+
+    
+    liste = []
+    entreprises=[]
+    links = []
+    salaries = []
+    num = -1
+    urlbase = url +"&start="
+    
+    while num >14 or num == -1 and num <50:
+        soup = BeautifulSoup(rep.text,'html.parser')
+        soup = soup.find("div",{'id':"mosaic-provider-jobcards"})
+        cases = soup.find_all('a',{'class':"tapItem"})
+        
+        for u in cases:
+            
+            a= u.find('tr') 
+            links.append(f"{url}&vjk={u['id'].split('_')[1]}")
+            n = a.find_all('h2')
+
+            other=u.find('span',{'class':'companyName'})
+            
+            company_=(other.get_text())
+            
+            entreprises.append(company_)
+            if a.find('div',{'class':'heading6 tapItem-gutter metadataContainer noJEMChips salaryOnly'}):
+                salaries.append(a.find('div',{'class':'metadata salary-snippet-container'}).get_text())
+        #                 print(a.find('div',{'class':'heading6 tapItem-gutter metadataContainer noJEMChips salaryOnly'}))
+            else:
+                salaries.append('Nope')
+            for vb in n :
+                h = vb.find_all('span')
+            
+                if(len(vb)==1):
+                    liste.append(vb.get_text())
+                    
+                else:
+                    liste.append(vb.get_text()[7:])
+        num = len(liste)
+        url +=urlbase+str(num)
+
+    import pandas as pd
+    df = pd.DataFrame()
+    df['titre']=liste
+    df['entreprise']=entreprises
+    df['salaire'] = salaries
+    df['links'] = links
+    return df
