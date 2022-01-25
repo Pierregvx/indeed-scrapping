@@ -1,81 +1,73 @@
 ,index,country,titre,entreprise,salaire,links,green,red
-0,0,www,uter science researchers,Kestrel Institute,Nope,https://www.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=bb64cdf83e8a405f,False,False
-1,1,fr,Stage Cryptographie quantique & Cryptographie post-quantique...,The Blockchain Group / QbitSoft,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=b395020b19fd033e,False,False
-2,3,fr,Internship Cryptographer M/F,The Blockchain Group / Xdev,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=76de15884de46dd9,False,False
-3,4,fr,Data Analytics Internship (Market Intelligence),L'Atelier BNP Paribas,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=4ff85d0058758055,False,False
-4,5,fr,Stage de fin d'études Consultant(e) Banque,Sia Partners,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=eae6efae67938709,False,False
-5,6,fr,Stage Optimisation par technologie quantique H/F,The Blockchain Group / QbitSoft,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=f586ea9105a449f4,False,False
-6,8,fr,Stage de fin d’études Consultant(e) Assurance,Sia Partners,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=77e8aaaf542edf05,False,False
-7,9,fr,Technical Recruiter - Internship,Ledger,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=9f3ae1e19316ab02,False,False
-8,10,fr,Stage developpeur Java backend,fragmoschain,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=aa377c42bf0b1917,False,False
-9,13,fr,Stage de fin d'études Consultant(e) Services Financiers,Sia Partners,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=c119b36d86573983,False,False
-10,14,fr,Rédacteur Web [Thème Blockchain/Crypto] H/F,Tremplin Numérique,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=8ee2071967b91c75,False,False
-11,15,fr,Stage Etude de maturité du Calcul Quantique H/F,The Blockchain Group / QbitSoft,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=0514de674cafcf4d,False,False
-12,16,fr,Rédacteur Web H/F,Tremplin Numérique,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=10&vjk=0e51472284dcad6d,False,False
-13,17,fr,Stage Coordinateur Transport H/F,Auchan Retail France,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=10&vjk=87006b078887b8e9,False,False
-14,18,fr,Backend Developer (Junior / Alt) H/F,Corellis,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=10&vjk=282e484fa8223b5c,False,False
-15,20,fr,Stage Quantum Machine Learning et Quantum Artificial Neural...,The Blockchain Group / QbitSoft,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=10&vjk=f9464ebb5e5c91f4,False,False
-16,21,fr,Stage de fin d'études Consultant(e) Technology Advantage,Sia Partners,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=10&vjk=144c22249461b98a,False,False
-17,22,fr,Stage de fin d'études - Consultant(e) en Transformation Digi...,Sia Partners,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=10&vjk=014ab6646bafc70e,False,False
-18,23,fr,Stage de fin d’études Consultant(e) Assurance,Sia Partners,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=77e8aaaf542edf05,False,False
-19,24,fr,Technical Recruiter - Internship,Ledger,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=9f3ae1e19316ab02,False,False
-20,25,fr,Stage developpeur Java backend,fragmoschain,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=aa377c42bf0b1917,False,False
-21,28,fr,Stage de fin d'études Consultant(e) Services Financiers,Sia Partners,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=c119b36d86573983,False,False
-22,29,fr,Rédacteur Web [Thème Blockchain/Crypto] H/F,Tremplin Numérique,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=8ee2071967b91c75,False,False
-23,30,fr,Stage Etude de maturité du Calcul Quantique H/F,The Blockchain Group / QbitSoft,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=0514de674cafcf4d,False,False
-24,31,fr,Rédacteur Web H/F,Tremplin Numérique,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=0e51472284dcad6d,False,False
-25,32,fr,Stage Coordinateur Transport H/F,Auchan Retail France,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=87006b078887b8e9,False,False
-26,33,fr,Backend Developer (Junior / Alt) H/F,Corellis,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=282e484fa8223b5c,False,False
-27,35,fr,Stage Quantum Machine Learning et Quantum Artificial Neural...,The Blockchain Group / QbitSoft,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=f9464ebb5e5c91f4,False,False
-28,36,fr,Stage de fin d'études Consultant(e) Technology Advantage,Sia Partners,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=144c22249461b98a,False,False
-29,37,fr,Stage de fin d'études - Consultant(e) en Transformation Digi...,Sia Partners,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=014ab6646bafc70e,False,False
-30,38,de,ure Development Internship,Anteja,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=bff704886a95177d,False,False
-31,42,de,rn (m/f/d),Nuromedia GmbH,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=f576c222b8c80f51,False,False
-32,43,de,Working Student Design (m/f/x),Next Big Thing AG,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=e351d356f83217fe,False,False
-33,45,de,Finance Praktikant / Internship (m/f/d),Arweave,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=8b4778ec78e8f545,False,False
-34,46,de,Praktikum Entrepreneur in Residence - NFT FinTech (m/w/d),Pinsl GmbH,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=1dc94c1a7a5f4fcf,False,False
-35,47,de,tyka: Software Engineering (Fullstack) Internship,iteratec GmbH,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=a9dd980b69f39f28,False,False
-36,49,de,RN – INVESTMENT ANALYST (M/W/D),10xDNA Capital Partners GmbH,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=c10d723604f9057b,False,False
-37,51,de,tikum Strategische Geschäftsentwicklung (d/m/w),Twinsity GmbH,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=b81629b6d8b61d91,False,False
-38,52,de,PRAKTIKUM HUMAN RESOURCES (m/w/d),PALTRON GmbH,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=8896f96cf3753c21,False,False
-39,53,de,Full-time Strategy & Operations Internship (m/f/x) - Berlin,Tomorrow Biostasis GmbH,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=10&vjk=ef29b0837a0126a3,False,False
-40,55,de,"al Media & Community Manager (m/w/d, Praktikant/Werkstud...",AMUZED,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=10&vjk=ad506e87f279aed3,False,False
-41,56,de,rn (m/f/d),Nuromedia GmbH,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=f576c222b8c80f51,False,False
-42,57,de,Working Student Design (m/f/x),Next Big Thing AG,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=e351d356f83217fe,False,False
-43,59,de,Finance Praktikant / Internship (m/f/d),Arweave,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=8b4778ec78e8f545,False,False
-44,60,de,Praktikum Entrepreneur in Residence - NFT FinTech (m/w/d),Pinsl GmbH,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=1dc94c1a7a5f4fcf,False,False
-45,61,de,tyka: Software Engineering (Fullstack) Internship,iteratec GmbH,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=a9dd980b69f39f28,False,False
-46,63,de,RN – INVESTMENT ANALYST (M/W/D),10xDNA Capital Partners GmbH,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=c10d723604f9057b,False,False
-47,64,de,tikant - Emerging Technologies - Consulting (Financial S...,EY,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=8a77053db82f0221,False,False
-48,66,de,tikum Strategische Geschäftsentwicklung (d/m/w),Twinsity GmbH,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=b81629b6d8b61d91,False,False
-49,67,de,PRAKTIKUM HUMAN RESOURCES (m/w/d),PALTRON GmbH,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=8896f96cf3753c21,False,False
-50,68,de,Full-time Strategy & Operations Internship (m/f/x) - Berlin,Tomorrow Biostasis GmbH,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=ef29b0837a0126a3,False,False
-51,70,de,"al Media & Community Manager (m/w/d, Praktikant/Werkstud...",AMUZED,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=ad506e87f279aed3,False,False
-52,71,uk,Internship - Corporate Strategy Analyst - Bitpanda Pro,Bitpanda,Nope,https://uk.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=a4874376d49d42eb,False,False
-53,72,uk,rnship - Compliance - Bitpanda Pro,Bitpanda,Nope,https://uk.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=1270a00945a99068,False,False
-54,73,uk,Internship - Sales - Bitpanda Pro,Bitpanda,Nope,https://uk.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=8841a1d6f56f045e,False,False
-55,74,at,Internship - Banking Relationships (f/m/d),Bitpanda,Nope,https://at.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=cd172fd45e006106,False,False
-56,75,at,g Talent - Praktikant Softwareentwicklung (m/w/d),iteratec GmbH,Nope,https://at.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=fa77d4ee573bba6b,False,False
-57,76,at,Internship - Market Risk (f/m/d),Bitpanda,Nope,https://at.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=739ac3e4421dd3a7,False,False
-58,77,at,tikum in der IT-Beratung,EY,Nope,https://at.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=11f30d3a1edb03f0,False,False
-59,78,at,rnship - IT Engineering (f/m/d),Bitpanda,Nope,https://at.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=0e1bbb26fe4ca906,False,False
-60,79,at,Internship - Treasury (f/m/d),Bitpanda,Nope,https://at.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=212c4dca5aa7367c,False,False
-61,80,at,g Talent - Studentischer Mitarbeiter Softwareentwicklung...,iteratec GmbH,Nope,https://at.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=7776aa4d9d668c97,False,False
-62,81,ch,nization Intern,Sygnum Bank AG,Nope,https://ch.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=0a53070d03374858,False,False
-63,82,ch,"tikant (m/w) im Bereich «Ecosystems, Agile Transformatio...",Business Engineering Institute,Nope,https://ch.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=612041076551bd1a,False,False
-64,83,ch,Regenerative Decentralised Finance Developer - Intern,SCB,Nope,https://ch.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=0fbe201c6d07adfd,False,False
-65,84,ch,ultant or Intern (f/m/d) - Consulting Technology - Field...,EY,Nope,https://ch.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=358e557db77062ac,False,False
-66,85,ch,ior-) Manager leading EY Switzerland's blockchain and di...,EY,Nope,https://ch.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=f030f98061c3c299,True,False
-67,86,ch,or Consultant (f/m/d) - Consulting Technology - Field of...,EY,Nope,https://ch.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=9cca40f0e7ffb56c,False,False
-68,88,ie,"Associate, Communications",Wachsman,Nope,https://ie.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=30b466b9e625bbaf,False,False
-69,89,ie,nology Consulting (DET) - Intelligent Automation Deliver...,EY,Nope,https://ie.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=2f88bd57cbc83160,False,False
-70,90,nl, Internship - Blockchain Program,ING,Nope,https://nl.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=b89e9a84b01473b5,True,False
-71,91,nl,gital Content Creator - Intern,BO EXCLSUVES,Nope,https://nl.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=9154c0ebd740c6d2,False,False
-72,93,dk,ess Development Analyst - Student Assistant,Januar,Nope,https://dk.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=11a8856ef868b96a,False,False
-73,94,ca,"Intern, Global Markets Sales Analyst",Global Digital Assets,Nope,https://ca.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=904263ce1cd5f62d,False,False
-74,95,ca,"Event Coordinator, Ventures Intern",Global Digital Assets,Nope,https://ca.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=8da011cd38974eea,False,False
-75,96,ca,Lending Analyst Intern,Global Digital Assets,Nope,https://ca.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=c518365c81a150e4,False,False
-76,97,ca,"ulting - Oracle and Tech Strategy - Summer Co-op 2022, O...",Ouest,Nope,https://ca.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=bfdf9280f56934d8,False,False
-77,98,cn,hina iXp Intern_Web Developer_Shanghai,SAP,Nope,https://cn.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=f85aeb0972af1245,False,False
-78,99,cn,Blockchain Analyst,Eureka Metacapital,Nope,https://cn.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=1bbfa4c5e58c35ed,True,False
-79,100,jp,ーンシップ マーケティング/広報,cocone connect株式会社,Nope,https://jp.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=fca01de74017d169,False,False
+0,0,fr,Intégrateur/ développeur Blockchain,Pango,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=07bab10de4f628f8,True,False
+1,1,fr,Blockchain Analyst - Platform (Internship/Apprenticeship),Ledger,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=49b2a53ea67b17e4,True,False
+2,2,fr,6-months Internship: Security for Distributed Public Procure...,SAP,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=ebe07a701f34809b,False,False
+3,3,fr,Internship Cryptographer M/F,The Blockchain Group / Xdev,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=76de15884de46dd9,False,False
+4,4,fr,Stage Ingénieur d'Affaires IT H/F - Fin d'études / Pré-embau...,NOVEO Group,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=72682af37cbdd38c,False,False
+5,5,fr,Front-end developer H/F,Tailor,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=b35977b08038fe01,False,False
+6,6,fr,Stage BI Engineer H.F,The Blockchain Group / Trimane,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=961350b900d983b2,False,False
+7,7,fr,STAGE CONSULTANT FONCTIONNEL SALESFORCE - H/F,Talan,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=b143a3e2d9fd4b7f,False,False
+8,8,fr,Stage Big Data Engineer H/F,The Blockchain Group / Trimane,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=02ce0c0febe55fe6,False,False
+9,11,fr,STAGE CONSULTANT TECHNIQUE SALESFORCE - H/F,Talan,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=e12617aedfcbd95d,False,False
+10,14,fr,Stage Développeur BI H/F,The Blockchain Group / Trimane,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=cd5c0398d8e707fc,False,False
+11,15,fr,6 MOIS STAGE DÉVELOPPEUR WEB (TÉLÉTRAVAIL),COM ON CLOUD,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=10&vjk=757b6e1817ea9760,False,False
+12,17,fr,Stage - Assistant(e) en vente e-commerce (H/F),My Compute Center Operating,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=10&vjk=e66a0a50c356edeb,False,False
+13,18,fr,Blockchain Analyst - Platform (Internship/Apprenticeship),Ledger,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=49b2a53ea67b17e4,True,False
+14,19,fr,Stage Développeur BI H/F,The Blockchain Group / Trimane,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=cd5c0398d8e707fc,False,False
+15,20,fr,STAGE CONSULTANT FONCTIONNEL SALESFORCE - H/F,Talan,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=b143a3e2d9fd4b7f,False,False
+16,22,fr,Stage Ingénieur d'Affaires IT H/F - Fin d'études / Pré-embau...,NOVEO Group,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=72682af37cbdd38c,False,False
+17,23,fr,Front-end developer H/F,Tailor,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=b35977b08038fe01,False,False
+18,24,fr,Stage Consultant technico-fonctionnel GMAO - H/F,Talan,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=cdb64544829e9ff5,False,False
+19,25,fr,STAGE CONSULTANT TECHNIQUE SALESFORCE - H/F,Talan,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=e12617aedfcbd95d,False,False
+20,26,fr,Internship Cryptographer M/F,The Blockchain Group / Xdev,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=76de15884de46dd9,False,False
+21,29,fr,6-months Internship: Security for Distributed Public Procure...,SAP,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=ebe07a701f34809b,False,False
+22,30,fr,6 MOIS STAGE DÉVELOPPEUR WEB (TÉLÉTRAVAIL),COM ON CLOUD,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=757b6e1817ea9760,False,False
+23,32,fr,Stage - Assistant(e) en vente e-commerce (H/F),My Compute Center Operating,Nope,https://fr.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&start=20&vjk=e66a0a50c356edeb,False,False
+24,34,de,tikant Softwareentwicklung (m/w/d),iteratec GmbH,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=5b52ba3086ff6ff9,False,False
+25,35,de,ness Development Praktikant Crypto Start-Up,CryptoGoGos,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=f576dec25cbfc0e6,False,False
+26,36,de,Working Student/Intern DesignOps,Nuri,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=070d0f26e8a1e710,False,False
+27,37,de,student / Praktikant Digital Media Design (m/w/d),iteratec GmbH,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=1bb83ed7b079c03e,False,False
+28,38,de,Werkstudent / Praktikant Softwareentwicklung (m/w/d),iteratec GmbH,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=9a8a811ae7293fc6,False,False
+29,41,de,Praktikum Strategische Geschäftsentwicklung (d/m/w),Twinsity GmbH,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=b81629b6d8b61d91,False,False
+30,42,de,tikum Software Development (m/w/d),M-Way Solutions GmbH,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=e8cee9506b756be4,False,False
+31,43,de,Praktikant - Emerging Technologies - Consulting (Financial S...,EY,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=8a77053db82f0221,False,False
+32,44,de,student/Praktikant - Assistent des CEO -Tech Startup (W/...,Swarm Logistics Technologies,Nope,https://de.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=4fe0ab77a7121ab2,False,False
+33,45,uk,rnship Program,Nethermind,Nope,https://uk.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=4ed01697124a5402,False,False
+34,46,uk,Internship - Compliance - Bitpanda Pro,Bitpanda,Nope,https://uk.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=1270a00945a99068,False,False
+35,47,uk,"or Talent Acquisition Partner, EMEA",Circle,Nope,https://uk.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=ee9387d487943127,False,False
+36,48,at,g Talent - Studentischer Mitarbeiter Softwareentwicklung...,iteratec GmbH,Nope,https://at.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=1e0f840c98e3929d,False,False
+37,49,at,Internship - Controlling (f/m/d),Bitpanda,Nope,https://at.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=707e23e47024f4d3,False,False
+38,50,at,Praktikum in der IT-Beratung,EY,Nope,https://at.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=11f30d3a1edb03f0,False,False
+39,51,at,g Talent - Praktikant Softwareentwicklung (m/w/d),iteratec GmbH,Nope,https://at.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=0db69eb6d7e2bda2,False,False
+40,52,at,Internship - Tax (f/m/d),Bitpanda,Nope,https://at.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=dba00bf2a0210941,False,False
+41,53,ch,Tokenization Intern,Sygnum Bank AG,Nope,https://ch.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=0a53070d03374858,False,False
+42,54,ch,(Senior-) Manager leading EY Switzerland's blockchain and di...,EY,Nope,https://ch.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=f030f98061c3c299,True,False
+43,55,ch,Consultant or Intern (f/m/d) - Consulting Technology - Field...,EY,Nope,https://ch.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=358e557db77062ac,False,False
+44,56,ch,rnship – Clients,Sygnum Bank AG,Nope,https://ch.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=4b7c1b364196b17a,False,False
+45,57,ch,rn - Site Reliability Engineering,Sygnum Bank AG,Nope,https://ch.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=e844076424214918,False,False
+46,58,ch,rnship - IT Infrastructure & Services 6 months,Sygnum Bank AG,Nope,https://ch.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=4c7a031f2e967981,False,False
+47,59,ch,Senior Consultant (f/m/d) - Consulting Technology - Field of...,EY,Nope,https://ch.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=9cca40f0e7ffb56c,False,False
+48,61,ie,"ic Relations Intern, Summer 2022",Wachsman,Nope,https://ie.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=513639bed495b953,False,False
+49,62,ie,"or Talent Acquisition Partner, EMEA",Circle,Nope,https://ie.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=e72c2113bc7fe8f5,False,False
+50,63,ie,Technology Consulting (DET) - Intelligent Automation Deliver...,EY,Nope,https://ie.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=2f88bd57cbc83160,False,False
+51,64,nl,WO Internship - Blockchain Program,ING,Nope,https://nl.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=b89e9a84b01473b5,True,False
+52,65,nl,lent Acquisition Partner - Operations,Bitpanda,Nope,https://nl.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=1868c2031e74af76,False,False
+53,66,nl,Internship 5G HUB,Ericsson,Nope,https://nl.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=d4499ec64410a84f,False,False
+54,67,nl,oud Partner Success Manager - DACH Region,Acronis,Nope,https://nl.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=f506489f206b91be,False,False
+55,68,nl,agiair Communicatie voor HCA ICT,ECP | Platform voor de Informatiesamenleving,Nope,https://nl.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=83abe8d863d1fdeb,False,False
+56,69,dk,"are Engineer, Student Worker (Aarhus)",Chainalysis,Nope,https://dk.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=2ec996c40a8c9b0a,False,False
+57,71,ca,Growth Marketer Intern (May - 8 months),IBM Canada,Nope,https://ca.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=0a0dbf7069e0a086,False,False
+58,72,ca,nical Product Manager Intern / Co-op (Spring 2022),Dapper Labs,Nope,https://ca.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=def35f8049b09620,False,False
+59,73,ca,Software Developer Intern (May - 8 months),IBM Canada,Nope,https://ca.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=1adfa0f505420f94,False,False
+60,74,ca,nical Product Manager Intern / Co-op (Spring 2022),CryptoKitties,Nope,https://ca.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=0a875b90eba8ff85,False,False
+61,75,ca,-stack Engineering Intern / Co-op (Spring 2022),CryptoKitties,Nope,https://ca.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=c57baec2e171797b,False,False
+62,76,ca,-stack Engineering Intern / Co-op (Spring 2022),Dapper Labs,Nope,https://ca.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=734558e5fdcbe350,False,False
+63,77,ca,UX/UI Designer Intern (May - 12 months),IBM Canada,Nope,https://ca.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=f2355d51177ce365,False,False
+64,78,ca,UI/UX Designer Intern (May - 8 months),IBM Canada,Nope,https://ca.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=52e7fa33711efe80,False,False
+65,79,ca,tend Software Engineering Intern / Co-op (Spring 2022),Dapper Labs,Nope,https://ca.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=674f4542c262c0ce,False,False
+66,80,ca,tend Software Engineering Intern / Co-op (Spring 2022),CryptoKitties,Nope,https://ca.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=68dada1406e46e0f,False,False
+67,81,ca,end Software Engineering Intern / Co-op (Spring 2022),Dapper Labs,Nope,https://ca.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=ad98b8ebf9932120,False,False
+68,82,ca,end Software Engineering Intern / Co-op (Spring 2022),CryptoKitties,Nope,https://ca.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=44d339932586689d,False,False
+69,83,ca,Data Scientist Intern (May - 8 months),IBM Canada,Nope,https://ca.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=e528fbeedfc93fb5,False,False
+70,84,ca,ing Analyst Intern,Global Digital Assets,Nope,https://ca.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=26157f99b7e9863a,False,False
+71,85,jp,長期インターンシップ マーケティング/広報,cocone connect株式会社,Nope,https://jp.indeed.com/jobs?q=blockchain&jt=internship&fromage=14&vjk=fca01de74017d169,False,False
